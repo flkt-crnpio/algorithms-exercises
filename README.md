@@ -14,7 +14,10 @@ Search a sorted array by repeatedly dividing the search interval in half. Begin 
 * [binary-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.py)
 * [binary-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.js)
 
+### Jump Search
+Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements
 
+* [jump-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.py)
 
 ## HackerRank problem solving
 * [big-sum.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/big-sum.py)
