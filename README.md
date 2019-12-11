@@ -8,6 +8,11 @@ Linear search algorithm is a simple and basic search algorithm in which we trave
 * [linear-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/linear-search.py)
 * [linear-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/linear-search.js)
 
+### Binary search
+Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the value is found or the interval is empty.
+
+* [binary-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.py)
+* [binary-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.js)
 
 
 
