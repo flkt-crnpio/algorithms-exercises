@@ -11,7 +11,6 @@ Linear search algorithm is a simple and basic search algorithm in which we trave
 ### Binary search
 Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the value is found or the interval is empty. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n).
 
-
 * [binary-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.py)
 * [binary-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.js)
 
@@ -21,8 +20,8 @@ Jump Search is a searching algorithm for sorted arrays. The basic idea is to che
 
 Binary Search is better than Jump Search, but Jump search has an advantage that we traverse back only once (Binary Search may require up to O(Log n) jumps, consider a situation where the element to be searched is the smallest element or smaller than the smallest). So in a system where binary search is costly, we use Jump Search.
 
-
 * [jump-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.py)
+* [jump-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.js)
 
 ## HackerRank problem solving
 * [big-sum.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/big-sum.py)
