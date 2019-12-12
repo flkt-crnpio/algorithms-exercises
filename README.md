@@ -9,13 +9,18 @@ Linear search algorithm is a simple and basic search algorithm in which we trave
 * [linear-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/linear-search.js)
 
 ### Binary search
-Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the value is found or the interval is empty.
+Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the value is found or the interval is empty. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n).
+
 
 * [binary-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.py)
 * [binary-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/binary-search.js)
 
 ### Jump Search
-Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements
+Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements. The time complexity of Jump Search is between Linear Search ( ( O(n) ) and Binary Search ( O (Log n) ).
+
+
+Binary Search is better than Jump Search, but Jump search has an advantage that we traverse back only once (Binary Search may require up to O(Log n) jumps, consider a situation where the element to be searched is the smallest element or smaller than the smallest). So in a system where binary search is costly, we use Jump Search.
+
 
 * [jump-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.py)
 
