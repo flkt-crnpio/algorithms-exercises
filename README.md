@@ -23,6 +23,11 @@ Binary Search is better than Jump Search, but Jump search has an advantage that 
 * [jump-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.py)
 * [jump-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.js)
 
+### Selection Sort
+The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
+
+* [selection-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/selection-sort.py)
+
 ## HackerRank problem solving
 * [big-sum.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/big-sum.py)
 * [compare-arrays.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/compare-arrays.py)
