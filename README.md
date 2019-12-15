@@ -39,6 +39,5 @@ The selection sort algorithm sorts an array by repeatedly finding the minimum el
 ## From friends
 * [balanced.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/balanced.py)
 * [balanced.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/balanced.js)
-
 * [swap.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/swap.py)
 * [swap.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/swap.js)
