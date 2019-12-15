@@ -1,4 +1,4 @@
-# algorithms exercises
+# algorithms
 
 ## Search and Sorting
 
