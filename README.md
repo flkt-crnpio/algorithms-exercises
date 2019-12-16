@@ -1,6 +1,4 @@
-# algorithms exercises
-
-## Search and Sorting
+# algorithms
 
 ### Linear search
 Linear search algorithm is a simple and basic search algorithm in which we traverse the array while looking for the number to be searched. Linear: O(n)
@@ -42,6 +40,5 @@ The selection sort algorithm sorts an array by repeatedly finding the minimum el
 ## From friends
 * [balanced.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/balanced.py)
 * [balanced.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/balanced.js)
-
 * [swap.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/swap.py)
 * [swap.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/swap.js)
