@@ -37,6 +37,7 @@ The selection sort algorithm sorts an array by repeatedly finding the minimum el
 * [staircase.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/staircase.py)
 * [string-subsecuence.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/string-subsecuence.py)
 * [sum-array.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/sum-array.py)
+* [plus-minus.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/plus-minus.js)
 
 ## From friends
 * [balanced.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/balanced.py)
