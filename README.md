@@ -34,6 +34,8 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
 
 * [bubble-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/bubble-sort.py)
 * [bubble-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/bubble-sort.js)
+* [recursive-bubble-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/recursive-bubble-sort.js)
+* [recursive-bubble-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/recursive-bubble-sort.py)
 
 ## HackerRank problem solving
 * [big-sum.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/big-sum.py)
