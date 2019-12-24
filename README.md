@@ -21,11 +21,19 @@ Binary Search is better than Jump Search, but Jump search has an advantage that 
 * [jump-search.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.py)
 * [jump-search.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/jump-search.js)
 
+### Sorted Merge
+
 ### Selection Sort
-The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array. It has O(n2) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort.
+The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array. It has O(n^2) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort.
 
 * [selection-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/selection-sort.py)
 * [selection-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/selection-sort.js)
+
+### Bubble Sort
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order. Runtime ( O(n^2) )
+
+* [bubble-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/bubble-sort.py)
+* [bubble-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/bubble-sort.js)
 
 ## HackerRank problem solving
 * [big-sum.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/big-sum.py)
