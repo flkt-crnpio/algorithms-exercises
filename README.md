@@ -25,6 +25,7 @@ Binary Search is better than Jump Search, but Jump search has an advantage that 
 The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array. It has O(n2) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort.
 
 * [selection-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/selection-sort.py)
+* [selection-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/selection-sort.js)
 
 ## HackerRank problem solving
 * [big-sum.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/big-sum.py)
