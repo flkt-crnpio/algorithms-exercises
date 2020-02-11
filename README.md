@@ -35,11 +35,15 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
 * [recursive-bubble-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/recursive-bubble-sort.js)
 * [recursive-bubble-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/recursive-bubble-sort.py)
 
-### Insertion sort
+### Insertion Sort
 Insertion sort is a simple sorting algorithm where the sorted array is built one item at time with each other sequentially. Runtime ( O(n^2) )
 
 * [insertion-sort.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/insertion-sort.py)
 * [insertion-sort.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/insertion-sort.js)
+
+### Merge Sort
+Merge sort is a divide-and-conquer algorithm based on the idea of breaking down a list into several sub-lists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list. Runtime O(n log n)
+
 ___
 
 ## HackerRank problem solving
