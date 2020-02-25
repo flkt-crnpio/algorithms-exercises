@@ -1,4 +1,5 @@
 # algorithms
+An algorithm is a set of instructions designed to perform an specific task.
 
 ### Linear search
 Linear search algorithm is a simple and basic search algorithm in which we traverse the array while looking for the number to be searched. Linear: O(n)
