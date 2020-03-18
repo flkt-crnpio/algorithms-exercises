@@ -58,6 +58,8 @@ ___
 * [sum-array.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/sum-array.py)
 * [plus-minus.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/plus-minus.py)
 * [plus-minus.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/plus-minus.js)
+* [birthday-cake-candles.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/birthday-cake-candles.py)
+* [birthday-cake-candles.js](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/birthday-cake-candles.js)
 
 ## From friends
 * [balanced.py](https://github.com/flkt-crnpio/algorithms-exercises/blob/master/balanced.py)
